@@ -1,5 +1,5 @@
 # ShiftOS
-[![Discord](https://discordapp.com/api/guilds/234414439330349056/widget.png?style=shield)](https://discord.gg/8nSWeGM) 
+[![Discord](https://discordapp.com/api/guilds/333801078820962316/widget.png?style=shield)](https://discord.gg/8nSWeGM) 
 [![Build status](https://ci.appveyor.com/api/projects/status/ktdv3nt6c3q88g2t?svg=true)](https://ci.appveyor.com/project/ComputeLinux/shiftos)
 
 The official, open-source, C# revamp of ShiftOS.
